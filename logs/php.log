@@ -1,0 +1,55 @@
+[Sat Jan 17 10:50:46 2026] PHP 8.1.12 Development Server (http://0.0.0.0:8080) started
+[Sat Jan 17 10:50:49 2026] 127.0.0.1:57524 Accepted
+[Sat Jan 17 10:50:49 2026] 127.0.0.1:57524 [200]: GET /index.html
+[Sat Jan 17 10:50:49 2026] 127.0.0.1:57524 Closing
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34908 Accepted
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34908 [200]: GET /
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34908 Closing
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34922 Accepted
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34922 [200]: GET /css/main.css
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34922 Closing
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34936 Accepted
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34936 [200]: GET /js/location.js
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34936 Closing
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34942 Accepted
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34942 [200]: GET /js/warpspeed.min.js
+[Sat Jan 17 10:51:04 2026] 127.0.0.1:34942 Closing
+[Sat Jan 17 10:51:06 2026] 127.0.0.1:34952 Accepted
+[Sat Jan 17 10:51:06 2026] 127.0.0.1:34952 [200]: POST /info_handler.php
+[Sat Jan 17 10:51:06 2026] 127.0.0.1:34952 Closing
+[Sat Jan 17 10:51:29 2026] 127.0.0.1:36274 Accepted
+[Sat Jan 17 10:51:29 2026] 127.0.0.1:36274 [200]: GET /
+[Sat Jan 17 10:51:29 2026] 127.0.0.1:36274 Closing
+[Sat Jan 17 10:51:40 2026] 127.0.0.1:55032 Accepted
+[Sat Jan 17 10:51:40 2026] 127.0.0.1:55032 [200]: POST /error_handler.php
+[Sat Jan 17 10:51:40 2026] 127.0.0.1:55032 Closing
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37042 Accepted
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37042 [200]: POST /error_handler.php
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37042 Closing
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37054 Accepted
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37054 [200]: POST /error_handler.php
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37054 Closing
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37064 Accepted
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37076 Accepted
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37064 [200]: POST /error_handler.php
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37064 Closing
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37082 Accepted
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37076 [200]: POST /error_handler.php
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37076 Closing
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37082 [200]: POST /error_handler.php
+[Sat Jan 17 10:52:12 2026] 127.0.0.1:37082 Closing
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37086 Accepted
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37086 [200]: GET /
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37086 Closing
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37088 Accepted
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37088 [200]: GET /css/main.css
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37088 Closing
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37096 Accepted
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37104 Accepted
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37096 [200]: GET /js/warpspeed.min.js
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37096 Closing
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37104 [200]: GET /js/location.js
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37104 Closing
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37110 Accepted
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37110 [200]: POST /info_handler.php
+[Sat Jan 17 10:52:20 2026] 127.0.0.1:37110 Closing
