@@ -1,2 +1,2 @@
 # m4x-
-this tool for termux and kali linux
+this tool for  kali linux
